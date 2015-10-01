@@ -60,16 +60,16 @@ Q: Jari Arkko. I was hoping we can get to concrete items today, we have potentia
 * SF: Jari mentioned testing/troubleshooting, any wishes there?
           * MW: using standards is essential, e.g the information going up and down. 
           * BM: testing has a disclosure aspect, so would like a forum on interoperability testing
-    * SM: Mark, so developing some standards around the interconnect points has value for metrics/testing etc.?
+    *SM: Mark, so developing some standards around the interconnect points has value for metrics/testing etc.?
           * MW: yes, get non-standards turned into standards
 
 Q: Patrick McManus. What I’m hearing is how to improve applications, but not that it is a mobile-specific problem. Interested in the panel’s thoughts. HTTPbis is considering making blind cache a charter item, thoughts welcome on HTTPbis. Great that there was a mention of Keyless SSL, does the panel think a standard around that help with pop-up CDNs/caches etc and address some of the core problems?
-    * TA: this should apply to all networks. Would characterise mobile as a fixed network where two ends of the wire talk. LTE divides a resource block (time/frequency) and that is the limit (not bandwidth). Number of bits in resource block is variable. A fully loaded LTE sector can be 150Mb or 3Mb. Aggregate throughout of the channel is highly variable due to conditions. LTE network chats to devices to get the optimal resource blocks shared. Handoffs can happen even when you do not move. So that is ephemeral aspect of mobile. But, we should also address all networks.
+* TA: this should apply to all networks. Would characterise mobile as a fixed network where two ends of the wire talk. LTE divides a resource block (time/frequency) and that is the limit (not bandwidth). Number of bits in resource block is variable. A fully loaded LTE sector can be 150Mb or 3Mb. Aggregate throughout of the channel is highly variable due to conditions. LTE network chats to devices to get the optimal resource blocks shared. Handoffs can happen even when you do not move. So that is ephemeral aspect of mobile. But, we should also address all networks.
 * RS: mobile is different in that I can get metrics from one source, not lots of middleboxes. This focus gives us opportunities for measurement. For HSM over network (Keyless SSL) Akamai would be interested
 * BM: we need guarantees on how to handle handshakes
 * MW: order of magnitude difference in variability of mobile vs fixed. Trading off bandwidth vs delay can increase capacity.
-      * SL: we see trend of more video moving to mobile,  mobile throughput guidance shows we are not yet optimal. Would be good to get together to talk about 5G - LTE is history for operators
-      * Patrick: pull radio into the answer rather than creating an answer for radio
+	* SL: we see trend of more video moving to mobile,  mobile throughput guidance shows we are not yet optimal. Would be good to get together to talk about 5G - LTE is history for operators
+	* Patrick: pull radio into the answer rather than creating an answer for radio
 
 Q: Benoit Clause: I like what you said about network management. But what do you mean by it: configuration, testing etc.? Secondly, by whom: the ISP, end user etc? I believe this workshop will be a success if we have some things that we can solve and focus on one to help matters across all the actors here. 
 * SF: (to panel) identify one thing to work on
@@ -86,11 +86,11 @@ Q: Vijay: caching has helped operators, with faster content delivery and reduced
 * BM: safe to say we all have plans to deploy with networks. But that is for a small number of major players,  but how do we do that for the rest of the Internet
 * MW: where justified we will provide that box
 * SM: we want to move away from the one-off point solutions
-     
+
 Q: Ted Hardie. We called this session ‘application  layer optimisation’. We have talked about application optimisations but not the application layer, There is a scaling problem as Sanjay pointed out, i,.e, an independent interface would be needed. So would like to focus on ‘shapes of traffic’ regardless of application, e.g. jitter or latency characteristics with no knowledge of the application. Needs to be standardised, cannot run multiple flavours. So I want to go back to the previous question, what’s the one thing you could do if it related to the application layer?
 * TA: I gave the answer of metrics, today they will base metrics on the application e.g. via heuristics. But if exchange the metrics, we don’t worry about what the application itself is. These can allow for better resource allocation, because metrics can better inform that and raise the tide of capacity.
-    * TH:clarifying question, is Facebook an application or set of applications?
-              * TA: set. if it’s all encrypted we may just see the application, but that is not as good for the metrics
+* TH:clarifying question, is Facebook an application or set of applications?
+	* TA: set. if it’s all encrypted we may just see the application, but that is not as good for the metrics
 * RS: metrics
 * BM: wanted to say metrics, but I’ll add blind caching
 * SM: need to make sure the network is calibrated to handle applications best. More constraints on bandwidth hogging.
