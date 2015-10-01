@@ -3,7 +3,7 @@
 Two initial items
 * How can we get information out from operators, etc, collected at GSMA, etc, anonymized, etc, to provide metrics for real data so we can test and evaluate hypotheses.
 * Layer of applicability (network<>UE at radio/MAC layer, or higher); where is the right place to do the work
- 
+
 ### ITEM ONE
 * How is radio resource control impacted by encryption, for example?
 * ECN notifications, deployment of ECN
@@ -20,7 +20,7 @@ Two initial items
 * Get NDA’s among various parties, exchange data, and informally bilateral cooperate, bring things forth; don’t want for next IETF
 * Operators can do experiments in a lab about effects of encryption and resource; don’t need live production data, should also be easier to share
 * Use the marnew list to talk about test framework
- 
+
 ### ITEM TWO
 * Risk 1: boiling the ocean – don’t try to solve 19 year old TCP-over-satellite, e.g
 * Risk 2: other cases other than UE to LTE network (mobile phones, not wireless uplink on company shuttle, e.g.)
