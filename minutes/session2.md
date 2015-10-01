@@ -74,7 +74,7 @@ Patrick (on behalf of Richard Barnes) (No slides)
 - Jari pointed out opportunity - Not just encryption changing.
  New approaches up and down the stack.
 
-Discussion:
+### Discussion:
 
 Question to Szilveszter re: policy controller. Information to
 third or forth party has to be known to both endpoints. Is that considered?
