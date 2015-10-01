@@ -60,7 +60,7 @@ Q: Jari Arkko. I was hoping we can get to concrete items today, we have potentia
 * SF: Jari mentioned testing/troubleshooting, any wishes there?
           * MW: using standards is essential, e.g the information going up and down. 
           * BM: testing has a disclosure aspect, so would like a forum on interoperability testing
-    *SM: Mark, so developing some standards around the interconnect points has value for metrics/testing etc.?
+    * SM: Mark, so developing some standards around the interconnect points has value for metrics/testing etc.?
           * MW: yes, get non-standards turned into standards
 
 Q: Patrick McManus. What I’m hearing is how to improve applications, but not that it is a mobile-specific problem. Interested in the panel’s thoughts. HTTPbis is considering making blind cache a charter item, thoughts welcome on HTTPbis. Great that there was a mention of Keyless SSL, does the panel think a standard around that help with pop-up CDNs/caches etc and address some of the core problems?
