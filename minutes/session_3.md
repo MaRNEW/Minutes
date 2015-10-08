@@ -8,6 +8,7 @@
    * Andreas Terzis (Google)
    * Patrick McManus (Mozilla)
 
+
 *    Joe Hildebrand intro:
     *    Short statements from the participants and leave room for conversation
     *    Consider SPUD, though just being a prototype so far… 
