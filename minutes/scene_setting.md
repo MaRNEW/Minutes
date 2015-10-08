@@ -33,7 +33,8 @@ __Christian Huetima:__ stands up and raises a question. Are we talking from two 
 * Anti-spam, malware are real problems. Need use cases. Most justification and policy don’t seem to hold ground but there are some real-challenges. 
 * There are transport issues. Radio network vs transport? The topic has to be discussed.
 * Deployment of encryption is increasing, but there are more threatening environment, pervasive monitoring is real, motivation apart, there is reaction against it.
-* Turn on encryption to discourage, and trend is there and will accelerate. It will not stop. We need to discuss how we can work 
+* Turn on encryption to discourage, and trend is there and will accelerate. It will not stop. We need to discuss how we can work
+
 ### IETF Process
 Provides IETF process background by way of listing number of RFC’s (see list below):
 *    RFC 1984, 2804, 3365, 3552, 6973, 7258, IAB statement on Internet confident, 7525, 1984
