@@ -1,11 +1,13 @@
-## Session 7: Technical Analysis and Response to Potential Regulatory Reaction
-
-panellists:
-* Barry L (Huawei - chair)
-* Kevin Smith (VFE)
-* Olaf Kollkman (IAB)
-* Diego Lopez (TEF)
-* Russ Housley (IAB)
+## Minutes: Session 7 Technical Analysis and Response to Potential Regulatory Reaction
+* Date: 25th September
+* Time: 11:00 - 12:30
+* Chair: Barry Leiba
+* Minute Taker: Istvan Lajtos
+* Panel:
+  * Kevin Smith (VFE)
+  * Olaf Kollkman (IAB)
+  * Diego Lopez (TEF)
+  * Russ Housley (IAB)
 
 This session is conducted under Chatham House rule. Joe provided a heads-up on the rule, it means recording will be turned off. Anything mentioned here, it will not be attributed to the individual. 
 All minutes will be taken without individuals names.
