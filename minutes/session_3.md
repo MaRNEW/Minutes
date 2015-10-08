@@ -1,4 +1,13 @@
-## Sending Data Up for Network Management Benefits
+## Minutes: Session 3 Sending Data Up for Network Management Benefits
+* Date: 24th September
+* Time: 14:00 - 15:45
+* Chair: Joe Hildebrand
+* Minute Taker: Diego Lopez
+* Panel:
+   * Humberto La Roche (Cisco)
+   * Andreas Terzis (Google)
+   * Patrick McManus (Mozilla)
+
 *    Joe Hildebrand intro:
     *    Short statements from the participants and leave room for conversation
     *    Consider SPUD, though just being a prototype so far… 
