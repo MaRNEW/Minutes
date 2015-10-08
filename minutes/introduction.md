@@ -1,6 +1,10 @@
-## MarNEW workshop notes:
+## Minutes: Introduction
+* Date: 24th September
+* Time: 09:00 - 09:20
+* Chair: Joe Hildebrand
+* Minute Taker: Ben Campbell
 
-### Introduction - Joe 
+Speaker is Joe Hildebrand unless stated otherwise.
 
 Joe presents intro slides
 
