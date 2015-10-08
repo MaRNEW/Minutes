@@ -1,8 +1,10 @@
-## Session 1: Encryption Deployment Considerations
- 
-Chair: Kathleen 
+## Minutes: Encryption Deployment Considerations
+* Date: 24th September
+* Time: 10:30 - 11:30
+* Chair: Kathleen Moriarty
+* Minute Taker: Kevin Smith
 
-Panelist: Kevin Smith
+Speaker is Kathleen Moriarty unless stated otherwise.
  
 Kathleen explained she and Kevin working on IETF documentation.
  
