@@ -1,9 +1,12 @@
-## Session 4 Sending Data Down for Network Management Benefits
-
-Dan Druta ATT
-* Dirk Kutscher ZTH
-* Chunshan Xiong Huawei
-* Kevin Smith Vodafone
+## Minutes: Session 4 Sending Data Down for Network Management Benefits
+* Date: 24th September
+* Time: 16:15 - 17:30
+* Chair: Dan Druta, ATT
+* Minute Taker: Phil Roberts
+* Panel:
+  * Dirk Kutscher ZTH
+  * Chunshan Xiong Huawei
+  * Kevin Smith Vodafone
 
 What are the use cases?  What are the solutions applied?  Why are current solutions broken with e2e encryption?
 
