@@ -3,11 +3,10 @@
 * Time: 12:00 - 13:00
 * Chair: Karen O'Donoghue
 * Minute Taker: Ben Campbell
-
-Panel:
-* Wendy Seltzer, W3C
-* Patrick McManus, Mozilla
-* Szilveszter Nadas, Ericsson
+* Panel:
+  * Wendy Seltzer, W3C
+  * Patrick McManus, Mozilla
+  * Szilveszter Nadas, Ericsson
 
 ### Wendy Intro - Security, Privacy, and Performance Considerations for the Mobile Web
 
