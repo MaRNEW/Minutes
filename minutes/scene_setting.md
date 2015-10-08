@@ -1,4 +1,6 @@
-## 09:20 - 10:00: Scene Setting
+## Minutes: Scene Setting
+* Date: 24th September
+* Time: 09:20 - 10:00
 * Chair: Stephen Farrell
 * Minute Taker: Sanjay Mishra
 
