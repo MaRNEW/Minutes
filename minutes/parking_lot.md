@@ -1,5 +1,15 @@
-## Parking Lot
+## Minutes: Parking Lot
+* Date: 25th September
+* Time: 14:30 - 15:30
+* Chair: Ted Hardie
+* Minute Taker: Rich Salz
 
+Speaker is Ted Hardie unless stated otherwise.
+
+### Parking Lot Introduction
+
+
+### Items In Parking Lot
 Two initial items
 * How can we get information out from operators, etc, collected at GSMA, etc, anonymized, etc, to provide metrics for real data so we can test and evaluate hypotheses.
 * Layer of applicability (network<>UE at radio/MAC layer, or higher); where is the right place to do the work
