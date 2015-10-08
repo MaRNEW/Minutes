@@ -1,4 +1,4 @@
-## Minutes: Session 5 Application Layer Optimisation, Caching and CDN
+## Minutes: Session 5 Application Layer Optimisation, Caching and CDNs
 * Date: 25th September
 * Time: 09:00 - 10:30
 * Chair: Stephen Farrell 
