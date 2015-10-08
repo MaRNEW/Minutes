@@ -1,14 +1,15 @@
-## Application Layer Optimisation, Caching and CDN
-
-Chair: SF Stephen Farrell
-
-Panellists:
-* TA Thomas Andersen
-* SL Salvatore Loreto
-* BM Blake Matheny
-* SM Sanjay Mishra
-* RS Rich Salz
-* MW Mark Watson
+## Minutes: Session 5 Application Layer Optimisation, Caching and CDN
+* Date: 25th September
+* Time: 09:00 - 10:30
+* Chair: Stephen Farrell 
+* Minute Taker: Kevin Smith
+* Panel:
+	* TA Thomas Andersen
+	* SL Salvatore Loreto
+	* BM Blake Matheny
+	* SM Sanjay Mishra
+	* RS Rich Salz
+	* MW Mark Watson
 
 SF: {intro to panellists}
 SL: CDN is the only intermediary that respects the rules that Stephen tells us; it’s a clear intermediary and trusted to deliver content. CDNs have done a good job in the fixed network. But now, major part of traffic (spec. video) is moving from fixed to mobile. Problem is, how we trust a fixed network CDN in a mobile context. Today you need to put caches in the Gi LAN of the mobile network (or even the radio network), but the landscape is different - it is not so easy to find room in the mobile network, so need to find a way to do that. Also: sometimes operators build their own CDNs (inc. mobile CDNs) because they are also content providers. So, my idea is to leverage IETF CDNi to allow global CDNs to interoperate with mobile CDNs. Challenges: trust, and the mechanism to provide trust (don’t want to share your private key widely); could consider a session key for example. Or, as Patrick mentioned, blind cache can allow the operator to host a cache box to allow content providers to cache encrypted content, and then the customer gets the key themselves at request time (i.e. key not shared with the operator)
