@@ -1,11 +1,13 @@
-## Session 2: Trust Models and User Choice
-
-### Chair Karen O'Donoghue
+## Minutes: Session 2 Trust Models and User Choice (Privacy)
+* Date: 24th September
+* Time: 12:00 - 13:00
+* Chair: Karen O'Donoghue
+* Minute Taker: Ben Campbell
 
 Panel:
-* Wendy Seltzer
-* Patrick McManus
-* Szilveszter Nadas
+* Wendy Seltzer, W3C
+* Patrick McManus, Mozilla
+* Szilveszter Nadas, Ericsson
 
 ### Wendy Intro - Security, Privacy, and Performance Considerations for the Mobile Web
 
