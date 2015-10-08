@@ -1,12 +1,14 @@
-## Transport session
-
-Panelists: 
-* Spencer Dawkins (moderator) 
-* Aaron Falk - Akamai - 
-* Zubair Shafiq (35),
-* Jianjie You (29),
-* Marcus Ihlar (20),
-* Jana Iyengar - 
+## Minutes: Session 6 Transport Layer: Issues, Optimisation and Solutions
+* Date: 25th September
+* Time: 11:00 - 12:30
+* Chair: Spencer Dawkins
+* Minute Taker: Karen O’Donoghue
+* Panel:
+  * Aaron Falk, Akamai
+  * Zubair Shafiq
+  * Jianjie You
+  * Marcus Ihlar
+  * Jana Iyengar
 
 ### Spencer’s slides...
 
