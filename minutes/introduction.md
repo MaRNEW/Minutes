@@ -6,42 +6,34 @@
 
 Speaker is Joe Hildebrand unless stated otherwise.
 
-Joe presents intro slides
+### Thank-yous
+* Thanks to AT&T and Dan Druta
+* ISOC sponsoring dinner
+* GSMA for food and logistics
+* Cindy Morgan for general support
 
-Thanks to AT&T and Dan Druta
+### Preparation for MaRNEW and Agenda
+* We had a big program committee
+* Agenda is on IAB site
+* Chairs and minute takers are listed on the slides
+* Send slides to Natasha for the records
+* Overall chairs: Joe and Natasha
+* Audio is recorded but will be best effort only, as we only have one microphone and it'll be placed at one point of the room.
 
-ISOC sponsoring dinner
+### Guidelines for the Workshop
+* IETF style mike queueing
+* Security Request: Please do not wander around in secure area.
+* Here to meet new people. Please do make the effort. 
 
-GSMA for food and logistics
+### Assumptions
+* All traffic is end-to-end encrypted
+    * Unencrypted traffic is out of scope. Discussion of it will be cut.
+* IETF folks please be receptive to listen to operator use cases. Assume people have real business cases.
 
-Cindy Morgan for general support
+### Note Well
+* Operating under IETF NOTE WELL rules.
 
-Big program committee.
-
-Agenda on IAB site
-
-Chairs and minute takers
-
-Send slides to Natasha for the records. (Also to present from her computer)
-
-Overall chairs: Joe and Natasha
-
-Audio is recorded (best effort)
-
-IETF style mike queueing
-
-Security Request: Please do not wander around in secure area.
-
-Here to meet new people. Make effort.
-
-Assumptions
- * All traffic is end-to-end encrypted
-     * Unencrypted traffic is out of scope. Discussion of it will be cut.
- * IETF folks please be receptive to listen to operator use cases. Assume
-   people have real business cases.
-
-Operating under IETF NOTE WELL rules.
-
+### Social
 Dinner 7:00pm at SunDial restaurants in the Westin Peachtree Plaza.
 
 
