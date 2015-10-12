@@ -34,7 +34,7 @@ Speaker is Joe Hildebrand unless stated otherwise.
 * Operating under IETF NOTE WELL rules.
 
 ### Social
-Dinner 7:00pm at SunDial restaurants in the Westin Peachtree Plaza.
+* Dinner 7:00pm at SunDial restaurants in the Westin Peachtree Plaza.
 
 
 
