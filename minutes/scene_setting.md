@@ -14,7 +14,7 @@ Speaker is Stephen Farrell unless stated otherwise.
 * Goal is to get on the same page to avoid arguing about topics where prior discussions have already occurred.  No point in discussing unsolvable problems.
 
 ### Statistics and Updates
-Shows stats on increasing HTTPS traffic. Stephen notes stats data is provided by
+Shows stats on increasing HTTPS traffic. Stephen notes stats data is provided by:
 *    Randy Bush provided stats
 *    Netflix provided some data as well
 *    Google provide, SMTP/TLS
@@ -69,7 +69,7 @@ Stephen shows a slide with Suggested Scope:
     *    Ways of doing interception (legal or not) see RFC 2804
     *    Unpredictable political actions
 
-Stephen invites all to comment for live updates to objectives/scope
+Stephen invites all to comment for live updates to objectives/scope.
 
 ### Discussion
 * __Aaron Falk__: It is all about tussle. ISP’s got to make money, congestion control is not the only factor, The slides do no capture precisely what is needed. Gives example that wireless spectrum is not unlimited. Suggests wording at the MIC to say something like, “efficient use of resources”
@@ -83,5 +83,6 @@ Stephen invites all to comment for live updates to objectives/scope
 * __Salvatore Loreto:__ Why we want to have two network mgmt?  Want better QoE and QoS and improved Internet. When there is a perceived problem in the network, first place you reach out to is Operator. It is difficult to describe in just few words why RAN is different. Put more antennas, you would end up with Radio pollution. IF we want better Internet, we want to consider, QoE for end-user as good as possible w/o infringing upon user privacy and security.
 * __Gianpolo:__ Issues we see on RAN are similar on Wi-fi. Add user choices. 
 
+### Finalised Minutes
 Stephen has made some textual changes live. Asks if anyone disagrees with changes? No objections are raised.
 
