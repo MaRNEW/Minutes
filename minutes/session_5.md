@@ -97,4 +97,4 @@ No intention to disparage anyone! Interesting point that I want to correct: the 
 * __Salvatore Loreto__: blind cache
 * __Diego Lopez:__ we are talking about collaboration and sharing, also should include the users…on the other hand were talking about not having this just for the major players.This will create a challenge for the trust model and privacy; SPUD still doesn’t have a trust model.
 * __Christian Huitema:__ I’m concerned when I hear we want to standardise caching as a solution. One reason behind encryption was to obscure who was looking at what. But pushing a service to the edge in this case is not caching: e.g. cloud document editing at the edge, allows part of the application to be placed at the edge - it’s a distributed application, content server at the edge. Metrics is something we can use however. The backhaul network of a mobile operator is not all that different from that of a fixed network. But the edge of a mobile network allows for a smaller control loop.
-* __Stephen Farrell:_ thanks to the panel!
+* __Stephen Farrell:__ thanks to the panel!
