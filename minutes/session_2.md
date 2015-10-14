@@ -9,22 +9,22 @@
   * Szilveszter Nadas, Ericsson
 
 ### Security, Privacy, and Performance Considerations for the Mobile Web (Wendy Seltzer)
-Status of Privacy on the Web
+__Status of Privacy on the Web__
 * HTML design principles prioritize users over authors over implementers over specifiers over theoretical purity
 * 64% of users said concerns over privacy have increased.
 * 67% would like to do more to protect privacy.
 
-W3C TAG Updates
+__W3C TAG Updates__
 * W3C TAG recent findings on securing the web, e2e encryption, unsanctioned tracking.
 
-Web Security Updates
+__Web Security Updates__
 *  secure contexts - certain features should only be available in secure contexts.
 *  upgrade insecure requests
 *  mixed content blocking
 *  sub-resource integrity
 *  elsewhere: HSTS, HPKP, Let's Encrypt
 
-Emerging Privacy Model of the Web
+__Emerging Privacy Model of the Web__
 * user expectations from contexts
 * dual use privacy protections - some features may not be thought of as privacy protecting, but users may be using them that way
 * Fingerprinting: at the heart of the tussle
@@ -41,11 +41,11 @@ Emerging Privacy Model of the Web
  * DPI has issues - encryption, OTT at disadvantage. Users nay perceive as
 * hostile to user preferences
 
-Cooperation and the Tussle
+__Cooperation and the Tussle__
 * Need demonstrated value and clear interfaces to achieve user cooperation.
 * end user shall be able to influence, but can't be too hard
 
-Trust and Policy Controller with middlebox cooperation
+__Trust and Policy Controller with middlebox cooperation__
 * Agent of end user, optional
 * May get metadata
 * Example: Non-economic incentive for user cooperation
